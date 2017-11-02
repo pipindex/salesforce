@@ -1,6 +1,14 @@
 {
     "name": "pipindex/salesforce",
-    "description": "",
+    "description": "A helper package to interact with Salesforce REST API on Laravel 4.x.",
+    "authors": [
+        {
+            "name": "Ali Gajani",
+            "email": "aligajani@gmail.com",
+            "homepage": "http://aligajani.com",
+            "role": "Developer"
+        }
+    ]
     "require": {
         "php"                       : ">=5.4.0",
         "illuminate/support"        : "4.2.*",
